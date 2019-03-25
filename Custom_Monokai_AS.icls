@@ -1,11 +1,11 @@
-<scheme name="Material Darker" version="142" parent_scheme="Darcula">
+<scheme name="CustomMonokai" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-02-24T07:27:14</property>
+    <property name="created">2019-03-25T17:32:31</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.4.0.9</property>
-    <property name="modified">2019-02-24T07:27:18</property>
-    <property name="originalScheme">_@user_Material Darker</property>
+    <property name="ideVersion">3.3.1.0</property>
+    <property name="modified">2019-03-25T17:32:41</property>
+    <property name="originalScheme">CustomMonokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="11" />
@@ -784,7 +784,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="4d5ed4" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -3833,18 +3833,18 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="17af04" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="4d5ed4" />
       </value>
     </option>
     <option name="XML_NS_PREFIX">
       <value>
-        <option name="FOREGROUND" value="ffc251" />
+        <option name="FOREGROUND" value="ff5400" />
       </value>
     </option>
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
@@ -3862,7 +3862,7 @@
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="f07178" />
+        <option name="FOREGROUND" value="b91000" />
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
