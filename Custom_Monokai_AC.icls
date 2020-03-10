@@ -1,24 +1,43 @@
-<scheme name="Xcode - WWDC2016" version="142" parent_scheme="Default">
+<scheme name="CustomMonokai copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-02-24T07:37:01</property>
+    <property name="created">2020-03-10T13:28:31</property>
     <property name="ide">AppCode</property>
-    <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-02-24T07:37:11</property>
-    <property name="originalScheme">Xcode - WWDC2016</property>
+    <property name="ideVersion">2019.3.4.0.0</property>
+    <property name="modified">2020-03-10T13:28:46</property>
+    <property name="originalScheme">CustomMonokai copy</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="0.99" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Meslo LG S for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Meslo LG M for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
   <colors>
-    <option name="CARET_COLOR" value="ff8000" />
-    <option name="CARET_ROW_COLOR" value="714f00" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1f2128" />
-    <option name="GUTTER_BACKGROUND" value="1f2128" />
+    <option name="ADDED_LINES_COLOR" value="0" />
+    <option name="ANNOTATIONS_COLOR" value="bdc3" />
+    <option name="CARET_COLOR" value="1dc986" />
+    <option name="CARET_ROW_COLOR" value="53d5f" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
+    <option name="DELETED_LINES_COLOR" value="0" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="9b9b9b" />
+    <option name="GUTTER_BACKGROUND" value="1b1b1b" />
     <option name="INDENT_GUIDE" value="aaa48a" />
-    <option name="SELECTION_BACKGROUND" value="ff0009" />
+    <option name="MODIFIED_LINES_COLOR" value="3c3f41" />
+    <option name="SELECTION_BACKGROUND" value="55273" />
+    <option name="SELECTION_FOREGROUND" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="d2d4b" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="4b00" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="134b33" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="10234b" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="174b33" />
     <option name="WHITESPACES" value="aaa48a" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="0" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
@@ -343,6 +362,24 @@
         <option name="FOREGROUND" value="3c3c3c" />
         <option name="BACKGROUND" value="f0f0f" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="4b4b4b" />
+        <option name="ERROR_STRIPE_COLOR" value="4b4b4b" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="2a4b47" />
+        <option name="ERROR_STRIPE_COLOR" value="254137" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="4d5269" />
+        <option name="ERROR_STRIPE_COLOR" value="52556f" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
